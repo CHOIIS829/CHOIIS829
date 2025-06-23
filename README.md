@@ -30,3 +30,7 @@
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+![insu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIIS829&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIIS829&layout=compact&theme=vue-dark)
