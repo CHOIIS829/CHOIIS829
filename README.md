@@ -1,9 +1,14 @@
-<!-- 프로필 상단 이미지 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E85B7,100:8E8FFA&height=200&section=header&text=Hello,%20I'm%20insu!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 상단 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E85B7&height=200&section=header&text=Hello,%20I'm%20insu!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+---
 
 ## 👋 About Me
-안녕하세요! 저는 백앤드 개발자 **최인수**입니다.  
-문제 해결과 사용자 경험에 진심을 다하며, **클린 코드**와 **유지보수성 높은 아키텍처**에 관심이 많습니다.  
+
+안녕하세요, 저는 **백엔드 개발자 최인수**입니다.  
+문제 해결과 사용자 경험에 진심을 다하며, **클린 코드**와 **유지보수성 높은 아키텍처**에 관심이 많습니다.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -15,10 +20,32 @@
 | **Database**     | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 | **DevOps/Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[🧠 지구공](https://github.com/https://github.com/CHOIIS829/EarthBall)** | 친환경 쇼핑몰 플랫폼 | Spring, JSP, ORACLE |
+| **[🕹️ EZGG](https://github.com/https://github.com/LL-EZGG/ezgg_2)** | 리그 오브 레전드 실시간 매칭 시스템 | Spring Boot, React, Redis, Elasticsearch |
+
+---
+
 ## 📊 GitHub Stats
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=CHOIIS829&show_icons=true&theme=vue-dark" width="400"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIIS829&layout=compact&theme=vue-dark" width="400"/></td>
   </tr>
 </table>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: cth7097@naver.com
+
+---
+
+> “좋은 코드는 동작하는 코드가 아니라, **잘 이해되는 코드**다.”
