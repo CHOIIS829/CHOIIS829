@@ -32,5 +32,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![insu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIIS829&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIIS829&layout=compact&theme=vue-dark)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=CHOIIS829&show_icons=true&theme=vue-dark" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIIS829&layout=compact&theme=vue-dark" width="400"/></td>
+  </tr>
+</table>
