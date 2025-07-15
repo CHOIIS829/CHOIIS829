@@ -26,7 +26,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[🧠 지구공](https://github.com/https://github.com/CHOIIS829/EarthBall)** | 친환경 쇼핑몰 플랫폼 | Spring, JSP, ORACLE |
+| **[🧠 지구공](https://github.com/CHOIIS829/EarthBall)** | 친환경 쇼핑몰 플랫폼 | Spring, JSP, ORACLE |
 | **[🕹️ EZGG](https://github.com/LL-EZGG/ezgg_2)** | 리그 오브 레전드 실시간 매칭 시스템 | Spring Boot, React, Redis, Elasticsearch |
 
 ---
