@@ -32,17 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=CHOIIS829&show_icons=true&theme=vue-dark" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIIS829&layout=compact&theme=vue-dark" width="400"/></td>
-  </tr>
-</table>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: cth7097@naver.com
