@@ -28,7 +28,7 @@
 |--------|-------------|------|
 | **[🧠 지구공](https://github.com/CHOIIS829/EarthBall)** | 친환경 쇼핑몰 플랫폼 | Spring, JSP, ORACLE |
 | **[🕹️ EZGG](https://github.com/LL-EZGG/ezgg_2)** | 리그 오브 레전드 실시간 매칭 시스템 | Spring Boot, React, MySql, Redis, Elasticsearch |
-| **[🧠 QuizAi]_(https://github.com/CHOIIS829/QuizAi)** | AI기반 모의고사 생성기 | Spring Boot, React, Google Gemini, MySql, Redis |
+| **[🧠 QuizAi](https://github.com/CHOIIS829/QuizAi)** | AI기반 모의고사 생성기 | Spring Boot, React, Google Gemini, MySql, Redis |
 
 ---
 
